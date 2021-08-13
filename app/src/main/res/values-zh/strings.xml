@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">测温</string>
+    <string name="open">打开</string>
+    <string name="close">关闭</string>
+    <string name="read">读</string>
+    <string name="write">写</string>
+    <string name="address_tv">地址:</string>
+    <string name="address_et">/dev/ttyHSL0</string>
+    <string name="temperature">温度:</string>
+    <string name="result">校准结果:</string>
+    <string name="cmd">cmd(16进制)</string>
+    <string name="wrong_cmd">错误的命令，需要16进制</string>
+    <string name="power_on">上电</string>
+    <string name="power_off">下电</string>
+    <string name="alarm_temperature">报警温度</string>
+    <string name="set">设置</string>
+    <string name="calibration">校准</string>
+    <string name="calibration_succeed" translatable="false">校准成功</string>
+    <string name="calibration_failed" translatable="false">校准失败</string>
+    <string name="environment_temperature_tv">环境温度:</string>
+</resources>
